@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - gxb_dev@wjwltest.mysql.rds.aliyuncs.com" uuid="f51bcda3-a06b-466a-bf64-1fb8d501497e">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>gxb_dev</user-name>
+    </data-source>
+  </component>
+</project>
